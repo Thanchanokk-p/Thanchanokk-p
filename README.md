@@ -2,9 +2,9 @@
 ### You can call me 'Friend'😄
 
 # 👩‍💼About me
-##### ⭐ I'm currently pursuing a Master's Degree in MSc Business Analytics @UCL 
+##### ⭐ I'm currently pursuing a Master's Degree in MSc Business Analytics @UCL (Academic year 2024/2025)
 ##### 🤝 Immersing myself to learning analysis, Contributing more to business & data projects
-#### **📚 This is my Portfolio to collect projects, business review, data/technology course certifications to further my knowledge and to develop my career in analytic roles**
+#### **📚 This is my Portfolio to collect projects & business reviews, digest the knowledge from data/technology course certifications to further my development to a career in analytic roles💭**
 
 # 🙌Get to know me more
 ##### 📝My work experience & Sharing brief project review: [LinkedIn](https://www.linkedin.com/in/thanchanok-puranamaneewiwat/)
