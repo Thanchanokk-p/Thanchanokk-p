@@ -2,7 +2,7 @@
 ### You can call me 'Friend'😄
 
 # 👩‍💼About me
-##### ⭐ I'm currently pursuing a Master's Degree in MSc Business Analytics @UCL (Academic year 2024/2025)
+##### ⭐ I graduated with an MSc in Business Analytics from UCL (Academic year 2024/2025)
 ##### 🤝 Immersing myself to learning Data Science and analysis. contributing more to business & data projects
 #### **📚 This portfolio showcases my work—primarily data science and research projects, along with some visualization-related work—as I continue developing toward a career in Data Science or Data Analytics.💭**
 
