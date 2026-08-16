@@ -2,8 +2,7 @@
 ### You can call me 'Friend'😄
 
 # 👩‍💼About me
-##### ⭐ I’m a data scientist specializing in predictive modeling and causal inference, with a focus on analyzing high-stakes decisions.
-##### 🤝 Immersing myself to learning Data Science and Analysis
+##### ⭐ I’m a data scientist specializing in predictive modeling and causal inference, focused on high-stakes decision-making. I build robust, scalable data pipelines and develop highly accurate, reliable models to support critical decisions.
 #### **📚 This portfolio showcases my work—primarily data science and research projects, along with some visualization-related work—as I continue developing toward a career in Data Science or Data Analytics.💭**
 
 # 🙌Get to know me more
