@@ -2,7 +2,7 @@
 ### You can call me 'Friend'😄
 
 # 👩‍💼About me
-##### ⭐ I graduated with an MSc in Business Analytics from UCL (Academic year 2024/2025)
+##### ⭐ I’m a data scientist specializing in predictive modeling and causal inference, with a focus on analyzing high-stakes decisions.
 ##### 🤝 Immersing myself to learning Data Science and Analysis
 #### **📚 This portfolio showcases my work—primarily data science and research projects, along with some visualization-related work—as I continue developing toward a career in Data Science or Data Analytics.💭**
 
